@@ -1,4 +1,4 @@
-# DevMountain Part-time Syllabus
+# DevMountain Part-time Syllabus!
 
 ## Index
 - [Week 1](#week1)
